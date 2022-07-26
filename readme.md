@@ -6,7 +6,7 @@ Solultions are inserted in .cpp file by question number.
 
 ## Question 1
 
-WAP that will take n integer numbers into an array, and then sum up all the integers in that array.
+Write a programme that will take n integer numbers into an array, and then sum up all the integers in that array.
 
 ```
 INPUT 1
@@ -31,7 +31,7 @@ OUTPUT 2
 
 ## Question 2
 
-WAP that will take n integer numbers into an array, and then sum up all the integers in the even indexed Position. 
+Write a programme that will take n integer numbers into an array, and then sum up all the integers in the even indexed Position. 
 
 ```
 INPUT 1
@@ -53,7 +53,7 @@ OUTPUT 2
 ```
 ## Question 3
 
-WAP that will take n integer numbers into an array, and then reverse all the integers within that array. Finally, print them all from 0 index to the last valid index.
+Write a programme that will take n integer numbers into an array, and then reverse all the integers within that array. Finally, print them all from 0 index to the last valid index.
 
 ```
 INPUT 1
@@ -75,7 +75,7 @@ OUTPUT 2
 ```
 
 ## Question 4
-WAP that will take n integer numbers into an array, and then find the maximum -minimum among them with its index position.
+Write a programme that will take n integer numbers into an array, and then find the maximum -minimum among them with its index position.
 
 ```
 INPUT 1
@@ -99,7 +99,7 @@ Min: 0, Index: 4
 ```
 
 ## Question 5
-WAP that will take n integers into an array, and then search a number into that array. If found then print its index. If not found then print “NOT FOUND”.
+Write a programme that will take n integers into an array, and then search a number into that array. If found then print its index. If not found then print “NOT FOUND”.
 ```
 INPUT 1
 8
@@ -121,7 +121,7 @@ OUTPUT 2
 NOT FOUND
 ```
 ## Question 6
-WAP that will take n integers into an array A and m positive integers into array B. Now find the intersection (set operation) of arrays A and B.
+Write a programme that will take n integers into an array A and m positive integers into array B. Now find the intersection (set operation) of arrays A and B.
 ```
 INPUT 1
 8
@@ -146,7 +146,7 @@ Empty set
 ```
 
 ## Question 7
-WAP that will take n positive integers into an array A. Now find all the integers that are divisible by 3 and replace them by -1 in array A. Finally show all elements of array A.
+Write a programme that will take n positive integers into an array A. Now find all the integers that are divisible by 3 and replace them by -1 in array A. Finally show all elements of array A.
 ```
 INPUT 1
 8
@@ -166,7 +166,7 @@ OUTPUT 2
 -1 2 1
 ```
 ## Question 8
-WAP that will take n integers into an array A. Now remove all duplicate numbers from that array. Finally, print all elements from that array. 
+Write a programme that will take n integers into an array A. Now remove all duplicate numbers from that array. Finally, print all elements from that array. 
 ```
 INPUT 1
 8
